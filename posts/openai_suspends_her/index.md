@@ -7,8 +7,6 @@ categories: []
 
 ![IMDb](thumbnail.png)
 
-**Posted May 20, 2024, 9:15 p.m.**
-
 OpenAI is suspending its ChatGPT voice, Sky, after users claimed it resembled Scarlett Johansson’s voice from the 2013 film _Her_.
 
 The company released a statement on X (formerly Twitter) today, announcing that it is "working to pause the use of Sky" to address the issue. Many users noted the voice's similarity to Johansson’s portrayal of an AI companion in the Spike Jonze-directed movie.
