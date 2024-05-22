@@ -10,10 +10,10 @@ website:
   repo-actions: [issue]
   back-to-top-navigation: true
   reader-mode: true
-  site-url: "https://fpl.dataidea.org/dataidea-fpl"
+  site-url: "https://movies.dataidea.org/dataidea-movies"
   description: "Learn Programming For Data Science"
   repo-branch: main
-  repo-url: "https://github.com/dataidea/dataidea-fpl"
+  repo-url: "https://github.com/dataidea/dataidea-movies"
   navbar:
     right:
       - text: Home
@@ -36,6 +36,8 @@ website:
             url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
       - text: Contact
         href: "https://courses.dataidea.org/contact"
+      - text: FPL
+        href: "https://fpl.dataidea.org"
       - icon: twitter
         href: https://twitter.com/datas_idea
 format:
