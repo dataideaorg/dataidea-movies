@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DATAIDEA"
+  favicon: assets/dataidea-logo.png
+  bread-crumbs: false
+  page-navigation: true
+  repo-actions: [issue]
+  back-to-top-navigation: true
+  reader-mode: true
+  site-url: "https://fpl.dataidea.org/dataidea-fpl"
+  description: "Learn Programming For Data Science"
+  repo-branch: main
+  repo-url: "https://github.com/dataidea/dataidea-fpl"
+  navbar:
+    right:
+      - text: Home
+        href: "https://www.dataidea.org/"
+      - text: About
+        menu:
+          - text: About Us
+            url: "https://dataidea.org/#about"
+          - text: Privacy Policy
+            url: "https://dataidea.org/privacy_policy.html"
+          - text: Terms of Service
+            url: "https://dataidea.org/terms_of_service.html"
+      - text: Resources
+        menu:
+          - text: Courses
+            url: "https://courses.dataidea.org/"
+          - text: Blog
+            url: "https://blog.dataidea.org"
+          - text: Forum
+            url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
+      - text: Contact
+        href: "https://courses.dataidea.org/contact"
+      - icon: twitter
+        href: https://twitter.com/datas_idea
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
