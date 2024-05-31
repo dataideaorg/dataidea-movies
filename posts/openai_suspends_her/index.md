@@ -2,7 +2,7 @@
 title: OpenAI Suspends ChatGPT Voice Allegedly Mimicking Scarlett Johansson in "Her"
 author: "Juma Shafara"
 date: "2024-05-22"
-categories: []
+categories: [News]
 ---
 
 ![IMDb](thumbnail.png)

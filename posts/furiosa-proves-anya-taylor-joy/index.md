@@ -2,7 +2,7 @@
 title: Furiosa Proves That Anya Taylor-Joy is One of Our Modern Movie Stars
 author: "Juma Shafara"
 date: "2024-05-28"
-categories: []
+categories: [Action, Adventure]
 ---
 
 ![IMDb](thumbnail.png)
@@ -90,4 +90,3 @@ If anything, _Furiosa_ is simply one more entry in a long line of confirmations 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-

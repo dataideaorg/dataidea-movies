@@ -2,7 +2,7 @@
 title: X-Men '97 Season 1 Ending Explained and What's Next for Season 2
 author: "Juma Shafara"
 date: "2024-05-22"
-categories: []
+categories: [Action, Science Fiction, Super Hero, Adventure, Animation]
 ---
 
 ![IMDb](thumbnail.png)
