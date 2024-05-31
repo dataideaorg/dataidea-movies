@@ -110,6 +110,6 @@ Stanley Kubrick's masterpiece "2001: A Space Odyssey" remains the quintessential
 <h2>You may also like:</h2>
 <a href="/posts/furiosa-proves-anya-taylor-joy/">
 <h4>Furiosa Proves That Anya Taylor-Joy is One of Our Modern Movie Stars</h4>
-![Furiosa Proves That Anya Taylor-Joy is One of Our Modern Movie Stars](../furiosa-proves-anya-taylor-joy/thumbnail.png)
+![Furiosa Proves That Anya Taylor-Joy is One of Our Modern Movie Stars](../furiosa-proves-anya-taylor-joy/furiosa.jpeg)
 </a>
 </div>
