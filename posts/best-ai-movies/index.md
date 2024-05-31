@@ -83,7 +83,7 @@ Before it was a hit TV series, "Westworld" was a groundbreaking film written and
 
 #### 3. **I, Robot (2004)**
 <div>
-<img src="./irobot.jpg" width="100%"/>
+<img src="./irobot.avif" width="100%"/>
 </div>
 Inspired by Isaac Asimov's collection of short stories, "I, Robot" stars Will Smith as Del Spooner, a detective in a future where robots are ubiquitous and bound by the Three Laws of Robotics. When a scientist is murdered, Spooner suspects a robot is the culprit, leading to a gripping investigation that questions the infallibility of AI ethics and the potential for robot autonomy.
 
