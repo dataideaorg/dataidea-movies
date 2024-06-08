@@ -2,7 +2,7 @@
 title: The Best Movie of Each Decade from 1920s to 2020s
 author: "Juma Shafara"
 date: "2024-06-8"
-categories: [Action, Adventure]
+categories: [Action, Adventure, SciFi, Recommendations]
 ---
 
 Cinema, a mirror reflecting society’s evolving psyche, has bestowed upon us countless masterpieces over the past century. From silent films to modern blockbusters, each decade has introduced groundbreaking works that have left indelible marks on the cultural landscape. This article explores the single best movie from each decade, starting in 1920 and journeying through to 2020s, celebrating the artistic and technological advancements that have shaped the film industry.
