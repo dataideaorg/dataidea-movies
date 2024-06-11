@@ -23,6 +23,20 @@ _Season 2, Episode 6_
 
 Death comes for Peter's soul, but when Death sprains his ankle chasing Peter, Peter must take on Death's role. Adam Carolla regularly voices Death, but in this episode, Death's first appearance, he was voiced by Norm MacDonald, whose laid-back, sarcastic delivery was perfect.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8076040302380238"
+     data-ad-slot="8693891310"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **"Road to Rhode Island"**
 
 _Season 2, Episode 13_
@@ -40,6 +54,20 @@ This episode features two main intersecting plotlines: rude New Yorkers visiting
 _Season 3, Episode 12_
 
 Chris witnesses a crime, and the family enters witness protection in the Deep South. Stewie starts a bluegrass band, Peter disrupts a Civil War reenactment, and Chris falls in love with a Southern girl named Sam (whom he initially mistakes for a boy). Chris and Sam's goodbye is sweet and touching.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8076040302380238"
+     data-ad-slot="8693891310"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **"PTV"**
 
@@ -59,6 +87,20 @@ _Season 6, Episode 4_
 
 Joe gets a new pair of legs, can walk again (just go with it), and becomes a complete douchebro as a result. The episode ends with Peter, Cleveland, Quagmire, and Bonnie trying to maim Joe because they liked him better when he was handicapped. A crass and mean-spirited episode overall, but funny enough to overlook its worst aspects.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8076040302380238"
+     data-ad-slot="8693891310"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **"McStroke"**
 
 _Season 6, Episode 8_
@@ -76,6 +118,20 @@ A time travel episode, "Road to Germany" transports Brian, Stewie, and Mort Gold
 _Season 8, Episode 1_
 
 If there's a single episode to showcase as the best of the series—proof of the show's comedic value and creativity—"Road to the Multiverse" is a strong candidate. Stewie builds a contraption that allows him and Brian to travel to infinite alternate universes. The funniest is the Disney universe, where every character is reimagined as a Disney-style animation, complete with singing animals and a Disney-esque ballad titled "It's a Wonderful Day for Pie."
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8076040302380238"
+     data-ad-slot="8693891310"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **"And Then There Were Fewer"**
 
@@ -95,6 +151,20 @@ _Season 9, Episode 7_
 
 A bawdy Christmas special with a lot of heart, "Road to the North Pole" stars Brian and Stewie. They find Santa close to death due to exhaustion and excessive demands and decide to deliver the presents in his stead. The attempt is, of course, an unmitigated disaster and features some of the darkest comedy in the show's history. However, the episode manages to convey a heartfelt message against greed and materialism.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8076040302380238"
+     data-ad-slot="8693891310"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **"Back to the Pilot"**
 
 _Season 10, Episode 5_
@@ -112,6 +182,13 @@ Lois has a midlife crisis, triggered by the worst imaginable birthday toast from
 _Season 11, Episode 21_
 
 The Star Trek: The Next Generation episode "Second Chances" deals with a transporter accident that creates two William Rikers. "Roads to Vegas" has an identical plotline; Stewie and Brian use a transporter to travel to Las Vegas, and the transporter creates a duplicate Brian and Stewie. Each set goes to Las Vegas unknowingly, and while one wins big, the other loses all its money and becomes indebted to a loan shark. Well-plotted, clever, and well-resolved, "Roads to Vegas" further proves that Brian and Stewie are the most fleshed-out, funniest characters on the show.
+
+<div class="p-3">
+<p class=pb-1>
+Don't miss out on any updates and developments! Subscribe to the DATAIDEA Newsletter it's easy and safe.
+</p>
+<iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%;" ></iframe>
+</div>
 
 **"Baking Bad"**
 
