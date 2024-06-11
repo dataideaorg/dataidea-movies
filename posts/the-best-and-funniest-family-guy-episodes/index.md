@@ -7,9 +7,7 @@ categories: [Animation, Recommendations]
 
 ![IMDb](thumbnail.jpg)
 
-The animated comedy Family Guy has had a lasting effect on viewers with its signature brand of comedy. Creator Seth MacFarlane crafted a comedic format that's beloved by many. Premiering on Fox in 1999, the show struggled with ratings for three seasons, with its time slot frequently changed. Fox canceled Family Guy in 2002. However, the show found its audience through home video sales, Kazaa file sharing, and broadcasts on Adult Swim. Fox revived the series in 2005, and it remains strong, now in its 21st season.
-
-Numerous show clips have gone viral—from Giant Chicken Fights to Cool Whip, Bird is the Word, and Ipecac Drinking Contests. The show may not earn the critical acclaim of its peers, but it consistently garners the most laughs per minute.
+The animated comedy Family Guy has had a lasting effect on viewers with its signature brand of comedy. Creator Seth MacFarlane crafted a comedic format that's beloved by many. Premiering on Fox in 1999, the show struggled with ratings for three seasons, with its time slot frequently changed. Fox canceled Family Guy in 2002. However, the show found its audience through home video sales, Kazaa file sharing, and broadcasts on Adult Swim. Fox revived the series in 2005, and it remains strong, now in its 22nd season.
 
 We’re celebrating the 20 best Family Guy episodes from Season 1 to Season 16, featuring the perfect mix of pop culture references, blue humor, and non-sequitur storytelling. Nearly all of these episodes prominently feature Brian and Stewie. Here are the episodes, listed in chronological order:
 
