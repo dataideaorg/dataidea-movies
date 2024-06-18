@@ -1,9 +1,28 @@
 ---
 title: The Best 10 AI Movies of All Time
 author: "Juma Shafara"
+keywords:
+  [
+    "AI movies",
+    "best ai movies",
+    her,
+    bladerunner,
+    ex-machina,
+    "i robot",
+    "westworld",
+    "west world",
+    "best ai movies of all time",
+    "ai movie recommendation",
+  ]
 date: "2024-05-31"
 categories: [Science Fiction, Recommendations]
 ---
+
+<style>
+     .keywords {
+          display: none
+     }
+</style>
 
 ![IMDb](thumbnail.png)
 
@@ -18,6 +37,7 @@ Artificial Intelligence (AI) has long been a captivating subject for filmmakers,
 Directed by Spike Jonze, "Her" is a tender exploration of love and loneliness in the digital age. The film follows Theodore Twombly, a lonely writer who develops a romantic relationship with an advanced AI operating system named Samantha. Voiced by Scarlett Johansson, Samantha evolves throughout the film, raising profound questions about the nature of love and consciousness.
 
 #### 9. **The Matrix (1999)**
+
 <div>
 <img src="./matrix.jpg" width="100%"/>
 </div>
@@ -38,18 +58,21 @@ A seminal sci-fi action film by the Wachowskis, "The Matrix" presents a dystopia
 </script>
 
 #### 8. **Blade Runner (1982)**
+
 <div>
 <img src="./bladerunner.jpg" width="100%"/>
 </div>
 Ridley Scott's "Blade Runner," based on Philip K. Dick's novel "Do Androids Dream of Electric Sheep?", is a noir thriller set in a grim future where bioengineered beings called replicants are virtually indistinguishable from humans. Harrison Ford stars as Rick Deckard, a blade runner tasked with hunting down rogue replicants. The film delves deeply into themes of identity, humanity, and the ethics of artificial life.
 
 #### 7. **Ex Machina (2014)**
+
 <div>
 <img src="./Ex-Machina.avif" width="100%"/>
 </div>
 Directed by Alex Garland, "Ex Machina" is a psychological thriller that explores the relationship between humans and AI. Domhnall Gleeson plays a young programmer selected to participate in a groundbreaking experiment with Ava, a highly advanced humanoid robot portrayed by Alicia Vikander. The film is a tense and cerebral examination of consciousness, manipulation, and the potential dangers of AI.
 
 #### 6. **A.I. Artificial Intelligence (2001)**
+
 <div>
 <img src="./ai.jpeg" width="100%"/>
 </div>
@@ -70,18 +93,21 @@ A collaboration between Steven Spielberg and Stanley Kubrick, "A.I. Artificial I
 </script>
 
 #### 5. **Ghost in the Shell (1995)**
+
 <div>
 <img src="./ghost-on-the-shell.jpg" width="100%"/>
 </div>
 This iconic Japanese animated film, directed by Mamoru Oshii, is set in a future where cybernetic enhancements are common and the lines between human and machine are blurred. Major Motoko Kusanagi, a cyborg police officer, hunts a mysterious hacker known as the Puppet Master. "Ghost in the Shell" is renowned for its philosophical depth and stunning visuals, influencing countless sci-fi works that followed.
 
 #### 4. **Westworld (1973)**
+
 <div>
 <img src="./Wetworld-1973.jpg" width="100%"/>
 </div>
 Before it was a hit TV series, "Westworld" was a groundbreaking film written and directed by Michael Crichton. The story is set in a high-tech amusement park where guests interact with lifelike robots. When the park's androids begin to malfunction, chaos ensues. The film is a thrilling exploration of artificial consciousness and the unpredictability of technology.
 
 #### 3. **I, Robot (2004)**
+
 <div>
 <img src="./irobot.avif" width="100%"/>
 </div>
@@ -95,12 +121,14 @@ Don't miss out on any updates and developments! Subscribe to the DATAIDEA Newsle
 </div>
 
 #### 2. **Metropolis (1927)**
+
 <div>
 <img src="./metropolis.jpg" width="100%"/>
 </div>
 Fritz Lang's silent film "Metropolis" is a pioneering work of science fiction that has influenced countless films and artists. Set in a futuristic city sharply divided between the working class and the city planners, the film features a revolutionary robot named Maria who plays a central role in the story. Its striking visuals and visionary themes make it a timeless classic.
 
 #### 1. **2001: A Space Odyssey (1968)**
+
 <div>
 <img src="./space.jpg" width="100%"/>
 </div>
