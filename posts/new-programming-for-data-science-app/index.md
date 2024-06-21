@@ -16,8 +16,6 @@ categories: [Announcements]
 
 ![Photo by DATAIDEA](/posts/new-programming-for-data-science-app/app.jpg)
 
-Hello there,
-
 We are thrilled to announce the launch of our brand-new app designed specifically for learning "Programming for Data Science." Whether you're diving into Python, exploring data analysis techniques or machine learning concepts, our app is tailored to support your learning journey every step of the way.
 
 ### How to Access the App:
