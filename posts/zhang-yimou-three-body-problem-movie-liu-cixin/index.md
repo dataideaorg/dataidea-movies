@@ -16,13 +16,7 @@ keywords:
 categories: [Science Fiction, Mystery Thriller, Fantasy Drama]
 ---
 
-<style>
-     .keywords {
-          display: none
-     }
-</style>
-
-![](thumbnail.jpg)
+![Photo by DATAIDEA](thumbnail.jpg)
 
 The celebrated auteur will tackle a Chinese-language feature adaptation of Liu Cixin's best-selling sci-fi book, which Netflix also brought to screen in its mega-budget series.
 
