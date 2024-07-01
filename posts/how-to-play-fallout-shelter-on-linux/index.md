@@ -15,14 +15,16 @@ keywords:
 categories: [Game]
 ---
 
-![Photo by DATAIDEA](./thumbnail.jpg)
+<div>
+<img src="./thumbnail.jpg" alt= "thumbnail" width="100%"/>
+</div>
 
 ## Step 1. Install Steam.
 
 Steam should be available to install using a package manager from all Linux distribution’s repositories, and in most cases using a software centre or with Terminal commands.
 
 <div>
-<img src="./steam_install.png" alt= "Snap Store" width="100%"/>
+<img src="./steam_install.jpg" alt= "Snap Store" width="100%"/>
 </div>
 
 Once installation has finished, launch Steam using your application launcher, apply the update and then sign into your account.
@@ -32,7 +34,7 @@ Once installation has finished, launch Steam using your application launcher, ap
 To enable Steam Proton for your library, navigate to Steam / Settings / Compatibility and tick both “Enable Steam Play for supported titles” and “Enable Steam Play for all other titles".
 
 <div>
-<img src="./steam_setting.png" alt= "Steam Compatibility Setting" width="100%"/>
+<img src="./steam_setting.jpg" alt= "Steam Compatibility Setting" width="100%"/>
 </div>
 
 This will select Proton Experimental as the default Proton build, so restart Steam to apply.
@@ -44,13 +46,13 @@ From here, install each game in the usual manner, and launch once the installati
 ### Search Fallout Shelter
 
 <div>
-<img src="./shelter_search.png" alt= "Fallout Search" width="100%"/>
+<img src="./shelter_search.jpg" alt= "Fallout Search" width="100%"/>
 </div>
 
 ## Download and start playing
 
 <div>
-<img src="./shelter_download.png" alt= "Steam Compatibility Setting" width="100%"/>
+<img src="./shelter_download.jpg" alt= "Steam Compatibility Setting" width="100%"/>
 </div>
 
 At this stage, all the games should be playable including Fallout Shelter
