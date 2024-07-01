@@ -77,6 +77,14 @@ To be among the first to hear about future updates, simply enter your email belo
 
 Shark attacks are rare, but given the number of movies that claim to be based on true stories of people getting chomped in the middle of the ocean, you’d think they happen all the time. Open Water is one of these movies that claims to be based on fact, and in some ways this is true. The movie was inspired by the true story of Tom and Eileen Lonergan, a pair of American vacationers whose scuba diving trip turned deadly when they were accidentally left behind in the middle of Australia’s Coral Sea after the boat crew failed to take an accurate headcount. Neither has been found but both are presumed dead — however, it’s unlikely that their ends were as gruesome as those suffered by the characters in Open Water.
 
+<div class="p-3">
+<h2>You may also like:</h2>
+<a href="/posts/best-ai-movies/">
+<h4>The Best 10 AI Movies of All Time</h4>
+<img src="../best-ai-movies/matrix.jpg" alt="best ai movies" width="100%">
+</a>
+</div>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
      crossorigin="anonymous"></script>
 
