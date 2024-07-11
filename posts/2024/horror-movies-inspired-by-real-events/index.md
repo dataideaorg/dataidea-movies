@@ -79,7 +79,7 @@ Shark attacks are rare, but given the number of movies that claim to be based on
 
 <div class="p-3">
 <h2>You may also like:</h2>
-<a href="/posts/best-ai-movies/">
+<a href="/posts/2024/best-ai-movies/">
 <h4>The Best 10 AI Movies of All Time</h4>
 <img src="../best-ai-movies/matrix.jpg" alt="best ai movies" width="100%">
 </a>
