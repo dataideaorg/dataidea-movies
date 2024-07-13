@@ -93,6 +93,14 @@ Directed by Alejandro Amenábar
 
 These films represent the best psychological thrillers of the 21st century, each offering a unique blend of suspense, intrigue, and psychological depth. Whether you’re a seasoned fan or new to the genre, these movies are sure to leave a lasting impression.
 
+<script src="https://utteranc.es/client.js"
+        repo="dataideaorg/dataidea-movies"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <div class="p-3">
 <h2>You may also like:</h2>
 <a href="/posts/2024/best-ai-movies/">

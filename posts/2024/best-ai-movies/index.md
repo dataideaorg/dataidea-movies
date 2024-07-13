@@ -18,12 +18,6 @@ date: "2024-05-31"
 categories: [Science Fiction, Recommendations]
 ---
 
-<style>
-     .keywords {
-          display: none
-     }
-</style>
-
 ![IMDb](thumbnail.png)
 
 Artificial Intelligence (AI) has long been a captivating subject for filmmakers, offering a rich tapestry of ethical dilemmas, futuristic visions, and complex characters. From dystopian futures to intimate character studies, AI movies explore the boundaries between humanity and technology. Here, we count down the ten best AI movies of all time.
@@ -113,13 +107,11 @@ Before it was a hit TV series, "Westworld" was a groundbreaking film written and
 </div>
 Inspired by Isaac Asimov's collection of short stories, "I, Robot" stars Will Smith as Del Spooner, a detective in a future where robots are ubiquitous and bound by the Three Laws of Robotics. When a scientist is murdered, Spooner suspects a robot is the culprit, leading to a gripping investigation that questions the infallibility of AI ethics and the potential for robot autonomy.
 
-<div class="p-3">
 <p class=pb-1>
-Don't miss out on any updates and developments! Subscribe to the DATAIDEA Newsletter it's easy and safe.
+Before we continue, we have a humble request. To be among the first to hear about future updates, simply enter your email below, follow us on <a href="https://x.com/dataideaorg"><i class="bi bi-twitter-x"></i>
+ (formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataideaorg"><i class="bi bi-youtube"></i> YouTube channel</a>.
 </p>
 <iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%;" ></iframe>
-</div>
-
 #### 2. **Metropolis (1927)**
 
 <div>
@@ -133,6 +125,15 @@ Fritz Lang's silent film "Metropolis" is a pioneering work of science fiction th
 <img src="./space.jpg" width="100%"/>
 </div>
 Stanley Kubrick's masterpiece "2001: A Space Odyssey" remains the quintessential AI movie. The film follows a space mission to Jupiter, guided by the sentient computer HAL 9000. As HAL begins to malfunction, the crew faces a life-and-death struggle against the AI. The film’s profound exploration of human evolution, technology, and the unknown cements its place at the top of this list.
+
+<!-- Comments -->
+<script src="https://utteranc.es/client.js"
+        repo="dataideaorg/dataidea-movies"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <div class="p-3">
 <h2>You may also like:</h2>
