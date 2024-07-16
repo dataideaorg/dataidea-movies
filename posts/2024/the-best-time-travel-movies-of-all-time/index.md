@@ -67,7 +67,7 @@ Feel free to share your thoughts on these movies or suggest other time travel fi
 
 <h2>What's on your mind? Put it in the comments!</h2>
 <script src="https://utteranc.es/client.js"
-        repo="dataideaorg/dataidea-blog"
+        repo="dataideaorg/dataidea-movies"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
