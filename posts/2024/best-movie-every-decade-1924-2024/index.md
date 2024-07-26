@@ -3,7 +3,15 @@ title: The Best Movie of Each Decade from 1920s to 2020s
 author: "Juma Shafara"
 date: "2024-06-8"
 categories: [Action, Adventure, Science Fiction, Recommendations]
-keywords: ["best movie", "best movie each decade", "movie of the decade", "data", "dataidea", "movies and data science"]
+keywords:
+  [
+    "best movie",
+    "best movie each decade",
+    "movie of the decade",
+    "data",
+    "dataidea",
+    "movies and data science",
+  ]
 ---
 
 <style>
