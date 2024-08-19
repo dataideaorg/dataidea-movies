@@ -1,14 +1,10 @@
 ---
 title: The Best Mystery Movies of All Time
 author: "Juma Shafara"
-keywords:
-  [
-    'mystery movies'
-  ]
+keywords: ["mystery movies"]
 date: "2024-08-19"
 categories: [Mystery, Recommendations]
 ---
-
 
 Mystery movies have an enduring appeal, drawing us in with their complex plots, enigmatic characters, and surprising twists. Here's a list of the best mystery movies of all time.
 
@@ -119,6 +115,6 @@ These films are renowned for their complex plots, suspenseful storytelling, and 
 <h2>You may also like:</h2>
 <a href="/posts/2024/the-to-10-psychological-thrillers/">
 <h4>The top 10 Psychological Thrillers</h4>
-![The top 10 Psychological Thrillers](../the-to-10-psychological-thrillers/thumbnail.jpg)
+<img src="/posts/2024/the-to-10-psychological-thrillers/thumbnail.jpg" width="100%" alt="Psychological Thrillers"/>
 </a>
 </div>
