@@ -109,6 +109,5 @@ If you’re looking for more holiday cheer, here are some other great post-1990 
 <h2>You may also like:</h2>
 <a href="/posts/2024/the-to-10-psychological-thrillers/">
 <h4>The top 10 Psychological Thrillers</h4>
-<img src="/posts/2024/the-to-10-psychological-thrillers/thumbnail.jpg" width="100%" alt="Psychological Thrillers"/>
 </a>
 </div>
