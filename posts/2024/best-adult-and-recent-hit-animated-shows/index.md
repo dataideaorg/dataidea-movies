@@ -7,7 +7,7 @@ categories: [Science Fiction, Recommendations, Animation]
 ---
 
 <div>
-    <img src="./thumbnail.avif" width="100%"/>
+<img src="./thumbnail.avif" width="100%"/>
 </div>
 
 Animation isn’t just for kids anymore. Over the years, adult animation has evolved into a sophisticated, edgy, and boundary-pushing genre with bold storytelling and stunning visuals. From satirical comedy to dark superhero adaptations, modern adult animated series are thriving. Likewise, recent hits have taken the animation world by storm, blending emotional depth, beautiful art, and gripping narratives.
@@ -118,4 +118,3 @@ A black ops team is formulated out of prisoners, laying the foundation for the S
         crossorigin="anonymous"
         async>
 </script>
-
